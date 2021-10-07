@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const default25 = document.getElementById("default25")
 const customCd = document.getElementById("customCd")
 const default0 = document.getElementById("default0")
